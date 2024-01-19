@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Image Search Engine is a Node.js-based application that simplifies the process of finding images by providing a user-friendly search interface.
+The Image Search Engine is a web development application that simplifies the process of finding images by providing a user-friendly search interface.
 Whether you're looking for inspiration, reference images, or simply curious, this search engine retrieves relevant images based on your query.
 
 ### Key Features:
